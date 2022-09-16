@@ -1,0 +1,16 @@
+generalInformation:
+  serviceAdminEmail: jarro06@gmail.com
+  gheUsername: jarro06
+  gheToken: ""
+  adpAccessToken: ""
+projectInformation:
+  projectName: Mój super nowy projekt
+  projectShortName: branch_protection_super_hiper
+  buildType: gradle
+  testInstance: true
+  preprodInstance: true
+  uatInstance: false
+automationService:
+  jenkinsOrGithubActions: gheactions
+gheOrganisation:
+  organisationName: jarro06
